@@ -1,0 +1,75 @@
+<table directory="assets">
+	<add>
+		<model path="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box"/>
+		<object path="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box"/>
+		<sequence_manager path="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box"/>
+		<unit load="true" path="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box"/>
+	</add>
+	<add>
+		<model path="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun"/>
+		<object path="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun"/>
+		<sequence_manager path="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun"/>
+		<unit load="true" path="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun"/>
+	</add>
+	<add>
+		<texture path="units/pd2_mod_jam/pickups/pku_goldgun/base_df"/>
+		<texture path="units/pd2_mod_jam/pickups/pku_goldgun/barrel_df"/>
+		<texture path="units/pd2_mod_jam/pickups/pku_goldgun/comp1_df"/>
+		<texture path="units/pd2_mod_jam/pickups/pku_goldgun/sights_df"/>
+		<texture path="guis/dlcs/jam/textures/pd2/equipment_steve_golden_gun"/>
+		<material_config path="units/pd2_mod_jam/pickups/pku_goldgun/pku_goldgun"/>
+		<model path="units/pd2_mod_jam/pickups/pku_goldgun/pku_goldgun"/>
+		<object path="units/pd2_mod_jam/pickups/pku_goldgun/pku_goldgun"/>
+		<unit path="units/pd2_mod_jam/pickups/pku_goldgun/pku_goldgun"/>
+	</add>
+	<add>
+		<unit path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
+		<object path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
+		<model path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
+		<material_config path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
+	</add>
+	<add>
+		<unit path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
+		<object path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
+		<model path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
+		<material_config path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
+		<texture path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep_df"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_jam/architecture/bnk_worn/bnk_worn"/>
+		<texture path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_01b_df_res"/>
+		<texture path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_01b_nm_res"/>
+
+		<unit path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_entrance_b_worn"/>
+		<object path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_entrance_b_worn"/>
+		<model path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_entrance_b_worn"/>
+		
+		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_nowin_worn"/>
+		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_nowin_worn"/>
+		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_nowin_worn"/>
+
+		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_door_worn"/>
+		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_door_worn"/>
+		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_door_worn"/>
+
+		<unit path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_wall_window_2m_worn"/>
+		<object path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_wall_window_2m_worn"/>
+		<model path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_wall_window_2m_worn"/>
+
+		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x8m_a_worn"/>
+		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x8m_a_worn"/>
+		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x8m_a_worn"/>
+
+		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x4m_a_door_worn"/>
+		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x4m_a_door_worn"/>
+		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x4m_a_door_worn"/>
+
+		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x2m_a_worn"/>
+		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x2m_a_worn"/>
+		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x2m_a_worn"/>
+
+		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x1m_a_worn"/>
+		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x1m_a_worn"/>
+		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x1m_a_worn"/>
+	</add>
+</table>

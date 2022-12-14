@@ -1,0 +1,20 @@
+<dynamic_object>
+    <diesel materials="units/pd2_mod_jam/pickups/pku_goldgun/pku_goldgun" orientation_object="rp_goldgun" />
+    <!-- <sequence_manager file="units/pd2_mod_jam/pickups/pku_goldgun/pku_goldgun"/> -->
+    <bodies>
+        <body enabled="true" template="editor" name="body_static" >
+            <object collision_type="box" name="c_box_goldgun" padding="-2.5"/>
+        </body>
+    </bodies>
+    <graphics>
+        <graphic_group name="grp_gun" enabled="true">
+            <object enabled="true" name="g_barrel" shadow_caster="false"/>
+            <object enabled="true" name="g_comp" shadow_caster="false"/>
+            <object enabled="true" name="g_frame" shadow_caster="false"/>
+            <object enabled="true" name="g_grip" shadow_caster="false"/>
+            <object enabled="true" name="g_sight_f" shadow_caster="false"/>
+            <object enabled="true" name="g_sight_r" shadow_caster="false"/>
+            <object enabled="true" name="g_slide" shadow_caster="false"/>
+        </graphic_group>
+    </graphics>
+</dynamic_object>

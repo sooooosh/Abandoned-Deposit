@@ -1,0 +1,18 @@
+<unit type="jam" slot="1">
+	<object file="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="CarryInteractionExt">
+			<var name="tweak_data" value="steve_pickup_ammo" />
+			<var name="_remove_on_interact" value="true" />
+			<var name="_global_event" value="pku_jewelry" />
+			<!-- <var name="_ray_object_names" type="table" >
+				<var value="rp_jfr_prop_crate_ammo_a"/>
+			</var> -->
+		</extension>
+		<extension name="carry_data" class="CarryData">
+			<var name="_carry_id" value="steve_ammo" />
+		</extension>
+	</extensions>
+</unit>

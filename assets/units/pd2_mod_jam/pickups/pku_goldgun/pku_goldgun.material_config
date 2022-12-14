@@ -1,0 +1,27 @@
+<materials version="3">
+    <material name="mat_body" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+        <diffuse_texture file="units/pd2_mod_jam/pickups/pku_goldgun/base_df"/>
+        <bump_normal_texture file="units/payday2/weapons/wpn_fps_pis_deagle_pts/base_nm"/>
+        <reflection_texture file="environments/cubemaps/cubemap_gold" type="cubemap"/>
+    </material>
+    <material name="mat_barrel" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+        <diffuse_texture file="units/pd2_mod_jam/pickups/pku_goldgun/barrel_df"/>
+        <bump_normal_texture file="units/payday2/weapons/wpn_fps_pis_deagle_pts/barrel_nm"/>
+        <reflection_texture file="environments/cubemaps/cubemap_gold" type="cubemap"/>
+    </material>
+    <material name="mat_sight" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+        <diffuse_texture file="units/pd2_mod_jam/pickups/pku_goldgun/sights_df"/>
+        <bump_normal_texture file="units/payday2/weapons/wpn_fps_pis_deagle_pts/sights_nm"/>
+        <reflection_texture file="environments/cubemaps/cubemap_gold" type="cubemap"/>
+    </material>
+    <material name="mat_grip" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+        <diffuse_texture file="units/payday2/weapons/wpn_fps_pis_deagle_pts/bling_df"/>
+        <bump_normal_texture file="units/payday2/weapons/wpn_fps_pis_deagle_pts/bling_nm"/>
+        <reflection_texture type="cubemap" global_texture="current_global_texture"/>
+    </material>
+    <material name="mat_comp" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+        <diffuse_texture file="units/pd2_mod_jam/pickups/pku_goldgun/comp1_df"/>
+        <bump_normal_texture file="units/payday2/weapons/wpn_fps_pis_deagle_pts/comp1_nm"/>
+        <reflection_texture file="environments/cubemaps/cubemap_gold" type="cubemap"/>
+    </material>
+</materials>

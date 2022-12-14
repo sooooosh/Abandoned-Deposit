@@ -1,0 +1,39 @@
+<table directory="assets">
+    <add>
+        <unit load="true"	path="units/payday2/characters/ene_cartel_worker_1/ene_cartel_worker_1"/>
+	    <unit load="true"	path="units/payday2/characters/ene_cartel_worker_1/ene_cartel_worker_1_husk"/>
+	    <model				path="units/payday2/characters/ene_cartel_worker_1/ene_cartel_worker_1"/>
+	    <object				path="units/payday2/characters/ene_cartel_worker_1/ene_cartel_worker_1"/>
+	    <cooked_physics		path="units/payday2/characters/ene_cartel_worker_1/ene_cartel_worker_1"/>
+	    <material_config	path="units/payday2/characters/ene_cartel_worker_1/ene_cartel_worker_1"/>
+	    <material_config	path="units/payday2/characters/ene_cartel_worker_1/ene_cartel_worker_1_contour"/>
+	    <texture			path="units/payday2/characters/ene_cartel_worker_1/cartel_worker_df"/>
+	    <texture			path="units/payday2/characters/ene_cartel_worker_1/cartel_worker_nm"/>
+    
+	    <unit load="true"	path="units/payday2/characters/ene_cartel_worker_2/ene_cartel_worker_2"/>
+	    <unit load="true"	path="units/payday2/characters/ene_cartel_worker_2/ene_cartel_worker_2_husk"/>
+	    <model				path="units/payday2/characters/ene_cartel_worker_2/ene_cartel_worker_2"/>
+	    <object				path="units/payday2/characters/ene_cartel_worker_2/ene_cartel_worker_2"/>
+	    <cooked_physics		path="units/payday2/characters/ene_cartel_worker_2/ene_cartel_worker_2"/>
+	    <material_config	path="units/payday2/characters/ene_cartel_worker_2/ene_cartel_worker_2"/>
+	    <material_config	path="units/payday2/characters/ene_cartel_worker_2/ene_cartel_worker_2_contour"/>
+    
+	    <unit load="true"	path="units/payday2/characters/ene_cartel_worker_3/ene_cartel_worker_3"/>
+	    <unit load="true"	path="units/payday2/characters/ene_cartel_worker_3/ene_cartel_worker_3_husk"/>
+	    <model				path="units/payday2/characters/ene_cartel_worker_3/ene_cartel_worker_3"/>
+	    <object				path="units/payday2/characters/ene_cartel_worker_3/ene_cartel_worker_3"/>
+	    <cooked_physics		path="units/payday2/characters/ene_cartel_worker_3/ene_cartel_worker_3"/>
+	    <material_config	path="units/payday2/characters/ene_cartel_worker_3/ene_cartel_worker_3"/>
+	    <material_config	path="units/payday2/characters/ene_cartel_worker_3/ene_cartel_worker_3_contour"/>
+    
+	    <unit load="true"	path="units/payday2/characters/ene_cartel_worker_4/ene_cartel_worker_4"/>
+	    <unit load="true"	path="units/payday2/characters/ene_cartel_worker_4/ene_cartel_worker_4_husk"/>
+	    <model				path="units/payday2/characters/ene_cartel_worker_4/ene_cartel_worker_4"/>
+	    <object				path="units/payday2/characters/ene_cartel_worker_4/ene_cartel_worker_4"/>
+	    <cooked_physics		path="units/payday2/characters/ene_cartel_worker_4/ene_cartel_worker_4"/>
+	    <material_config	path="units/payday2/characters/ene_cartel_worker_4/ene_cartel_worker_4"/>
+	    <material_config	path="units/payday2/characters/ene_cartel_worker_4/ene_cartel_worker_4_contour"/>
+	    <texture			path="units/payday2/characters/ene_cartel_worker_4/cartel_worker_boss_df"/>
+	    <texture			path="units/payday2/characters/ene_cartel_worker_4/cartel_worker_boss_nm"/>
+    </add>
+</table>

@@ -1,0 +1,24 @@
+<materials version="3" group="ene_gang_black_1">
+	<material name="mtr_head" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_COPS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture		file="units/payday2/characters/shared_textures/mexican_4_head_df"/>
+		<bump_normal_texture	file="units/payday2/characters/shared_textures/mexican_4_head_nm"/>
+		
+		
+	</material>
+	
+	<material name="mtr_body" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_COPS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture		file="units/payday2/characters/ene_cartel_worker_1/cartel_worker_df"/>
+		<bump_normal_texture	file="units/payday2/characters/ene_cartel_worker_1/cartel_worker_nm"/>
+		
+		
+	</material>
+	
+	<material name="mtr_hat" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_COPS" version="2">
+		<diffuse_texture		file="units/payday2/characters/shared_textures/harbor_worker_2_df"/>
+		<bump_normal_texture	file="units/payday2/characters/shared_textures/harbor_worker_2_nm"/>
+		
+		
+	</material>
+	
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT" version="2"/>
+</materials>

@@ -1,0 +1,7 @@
+<unit type="jam" slot="1" >
+    <object file="units/pd2_mod_jam/props/metal_plate/metal_plate" />
+
+    <extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+	</extensions>
+</unit>

@@ -1,0 +1,6 @@
+<unit type="lcm" slot="1" >
+    <object file="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x8m_a_worn" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

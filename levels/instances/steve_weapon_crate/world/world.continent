@@ -1,0 +1,36 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc1/equipment/ind_interactable_shipping_crate_2x1x1m/ind_interactable_shipping_crate_2x1x1m" name_id="ind_interactable_shipping_crate_2x1x1m_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-75 0 25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/equipment/gen_interactable_weapon_case_2x1/spawn_ak47" name_id="spawn_ak47_001" position="0 0 25" rotation="0 0 0 -1" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-118 0 35" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_ranc/props/ranc_int_prop_weapon_workbench/spawn_crafted_weapon_case" name_id="spawn_crafted_weapon_case_001" position="7 0 35" rotation="0 0 -0.707107 -0.707107" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-182 20 37" _prev_rot="0.707107 -3.09086e-008 0.707107 3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun" name_id="pku_shotgun_001" position="-7 20 37" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-250 25 32" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box" name_id="pku_ammo_box_001" position="0 25 32" rotation="0 0 0.707107 -0.707107" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-250 0 32" _prev_rot="0 0 0.67559 -0.737277" continent="world" local_pos="25 0 0" local_rot="0 0 0.0436194 0.999048" mesh_variation="" name="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box" name_id="pku_ammo_box_002" position="0 0 32" rotation="0 0 0.67559 -0.737277" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-250 -25 32" _prev_rot="0 0 0.748956 -0.66262" continent="world" local_pos="50 0 0" local_rot="0 0 -0.0610485 0.998135" mesh_variation="" name="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box" name_id="pku_ammo_box_003" position="0 -25 32" rotation="0 0 0.748956 -0.66262" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="51.869 -50 35.7981" _prev_rot="0 -0.573577 0 -0.819152" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_interaction_disabled" name="units/payday2/equipment/hlm_interactable_bar_code_downtown/hlm_interactable_bar_code_downtown" name_id="hlm_interactable_bar_code_downtown_001" position="51.869 -50 35.7981" rotation="0 -0.573577 0 -0.819152" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-75 -50 67" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_interaction_disabled" name="units/payday2/equipment/hlm_interactable_bar_code_downtown/hlm_interactable_bar_code_downtown" name_id="hlm_interactable_bar_code_downtown_002" position="0 -50 67" rotation="0 0 0 -1" unit_id="100009"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

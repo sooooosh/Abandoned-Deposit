@@ -1,0 +1,35 @@
+<materials version="3">
+    <material version="2" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" name="mat_bnk_ext_wall_02">
+        <diffuse_texture file="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_01b_df_res"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+        <bump_normal_texture file="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_01b_nm_res"/>
+    </material>
+    <material version="2" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" name="mat_lcm_b_ext_01b">
+        <diffuse_texture file="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_01b_df_res"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+        <bump_normal_texture file="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_01b_nm_res"/>
+    </material>
+
+    <material version="2" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" name="mat_lcm_b_ext_01a">
+        <diffuse_texture file="units/payday2/architecture/lcm_b/lcm_b_ext_01a_df"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+        <bump_normal_texture file="units/payday2/architecture/lcm_b/lcm_b_ext_01a_nm"/>
+    </material>
+    <material version="2" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" name="mat_bnk_ext_wall_01">
+        <diffuse_texture file="units/payday2/architecture/lcm_b/lcm_b_ext_01a_df"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+        <bump_normal_texture file="units/payday2/architecture/lcm_b/lcm_b_ext_01a_nm"/>
+    </material>
+    <material version="2" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" name="mat_bnk_ext_wall_01">
+        <diffuse_texture file="units/payday2/architecture/lcm_b/lcm_b_ext_01a_df"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+        <bump_normal_texture file="units/payday2/architecture/lcm_b/lcm_b_ext_01a_nm"/>
+    </material>
+    <material name="mat_bnk_int_part_01" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_ENVIRONMENT" version="2">
+        <diffuse_texture file="units/payday2/architecture/bnk/bnk_int_part_01_df"/>
+        <bump_normal_texture file="units/payday2/architecture/bnk/bnk_int_part_01_nm"/>
+    </material>
+
+     <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+
+</materials>

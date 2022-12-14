@@ -1,0 +1,172 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="-199 75 225" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_vents/dah_vent_01" name_id="dah_vent_01_001" position="-199 75 225" rotation="0 0 0.707107 -0.707107" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-226 75 225" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -27 0" local_rot="0 0 1 -8.9407e-008" name="units/pd2_dlc_dah/props/dah_prop_vents/dah_vent_01" name_id="dah_vent_01_002" position="-226 75 225" rotation="0 0 -0.707107 -0.707107" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-202 -155 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="gen_interactable_door_reinforced_001" position="-202 -155 0" rotation="-0 0 -0 -1" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 200 0" _prev_rot="0 0 1 -0" continent="world" local_pos="-125 199 -225" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_031" position="0 200 0" rotation="0 0 1 -0" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 200 0" _prev_rot="0 0 1 -0" continent="world" local_pos="-125 399 -225" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_030" position="200 200 0" rotation="0 0 1 -0" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="75 399 -225" local_rot="0 0 1 0" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_029" position="200 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 -200 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="275 399 -225" local_rot="0 0 1 0" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_028" position="200 -200 0" rotation="0 0 -0.707107 -0.707107" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-200 -200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="275 -1 -225" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_026" position="-200 -200 0" rotation="0 0 0 -1" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4 -200 -3.05176e-005" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_027" position="0 -200 -0" rotation="-0 0 -0 -1" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-200 0 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="75 -1 -225" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_door_2x3m" name_id="com_int_basement_wall_door_2x3m_005" position="-200 0 0" rotation="0 0 0.707107 -0.707107" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-200 200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-125 -1 -225" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_025" position="-200 200 0" rotation="0 0 0.707107 -0.707107" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-200 -200 300" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_ceiling_a_2x2m" name_id="com_int_basement_ceiling_a_2x2m_002" position="-200 -200 300" rotation="0 0 0 -1" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-200 0 300" _prev_rot="0 0 0 -1" continent="world" local_pos="75 -1 75" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/com_int_basement/com_int_basement_ceiling_a_2x2m" name_id="com_int_basement_ceiling_a_2x2m_001" position="-200 0 300" rotation="0 0 0 -1" unit_id="100013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -200 300" _prev_rot="0 0 0 -1" continent="world" local_pos="275 199 75" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/com_int_basement/com_int_basement_ceiling_a_2x2m" name_id="com_int_basement_ceiling_a_2x2m_003" position="0 -200 300" rotation="0 0 0 -1" unit_id="100014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 300" _prev_rot="0 0 0 -1" continent="world" local_pos="75 199 75" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/com_int_basement/com_int_basement_ceiling_a_2x2m" name_id="com_int_basement_ceiling_a_2x2m_004" position="0 0 300" rotation="0 0 0 -1" unit_id="100015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 300" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/world/props/apartment/hanging_lightbulb/hanging_lightbulb2" name_id="hanging_lightbulb2_001" position="0 0 300" rotation="-0 0 -0 -1" unit_id="100016">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="200" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="175 -200 300" _prev_rot="0.707107 -4.21468e-008 4.21468e-008 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_decal_leak_a_4m" name_id="com_ext_parking_garage_decal_leak_a_4m_001" position="200 -200 300" rotation="0.707107 -4.21468e-008 4.21468e-008 -0.707107" unit_id="100017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 200 300" _prev_rot="0.707107 -4.21468e-008 4.21468e-008 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_decal_leak_a_4m" name_id="com_ext_parking_garage_decal_leak_a_4m_002" position="200 200 300" rotation="0.5 0.5 -0.5 -0.5" unit_id="100018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-200 200 300" _prev_rot="0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_decal_leak_a_4m" name_id="com_ext_parking_garage_decal_leak_a_4m_003" position="-200 200 300" rotation="2.98023e-008 0.707107 -0.707107 0" unit_id="100019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-200 -200 300" _prev_rot="2.98023e-008 0.707107 -0.707107 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_decal_leak_a_4m" name_id="com_ext_parking_garage_decal_leak_a_4m_004" position="-200 -200 300" rotation="-0.5 0.5 -0.5 0.5" unit_id="100020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-100 167 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_a" name_id="off_prop_generic_shelf_wire_a_001" position="-125 167 0" rotation="0 0 -0.707107 -0.707107" unit_id="100021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50 167 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -150 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_a" name_id="off_prop_generic_shelf_wire_a_002" position="25 167 0" rotation="0 0 -0.707107 -0.707107" unit_id="100022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="168 42 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_a" name_id="off_prop_generic_shelf_wire_a_003" position="168 50 0" rotation="0 0 0 -1" unit_id="100023"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="168 -108 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -150 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_a" name_id="off_prop_generic_shelf_wire_a_004" position="168 -100 0" rotation="0 0 0 -1" unit_id="100024"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="108.074 125.939 0" _prev_rot="0 0 0.0784591 -0.996917" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_sand/pickups/sand_pku_gasoline/sand_pku_gasoline" name_id="sand_pku_gasoline_001" position="108.074 125.939 0" rotation="0 0 0.0784591 -0.996917" unit_id="100025"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 138 89" _prev_rot="0 -0.707107 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_sand/pickups/sand_pku_gasoline/sand_pku_gasoline" name_id="sand_pku_gasoline_002" position="-25 138 89" rotation="0 -0.707107 0 -0.707107" unit_id="100026"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="185.074 -178.061 0" _prev_rot="0 0 -0.649448 -0.760406" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_sand/pickups/sand_pku_gasoline/sand_pku_gasoline" name_id="sand_pku_gasoline_003" position="185.074 -178.061 0" rotation="0 0 -0.649448 -0.760406" unit_id="100027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="125 200 275" _prev_rot="0.5 -0.5 0.5 0.5" continent="world" local_pos="3.57628e-005 -3.57628e-005 -300" local_rot="-2.98023e-008 -2.98023e-008 -2.98023e-008 1" name="units/pd2_indiana/architecture/mus_int_lab/mus_int_basement_pipes_01" name_id="mus_int_basement_pipes_01_001" position="125 300 275" rotation="0.5 -0.5 0.5 0.5" unit_id="100028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="125 -100 275" _prev_rot="0.5 -0.5 0.5 0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_indiana/architecture/mus_int_lab/mus_int_basement_pipes_01" name_id="mus_int_basement_pipes_01_002" position="125 0 275" rotation="0.5 -0.5 0.5 0.5" unit_id="100029"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-153 175 199" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/drk_prop_cardboard_box/drk_cardboard_box" name_id="drk_cardboard_box_001" position="-153 175 200" rotation="0 0 -0.707107 -0.707107" unit_id="100030"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9 160 199" _prev_rot="-0 -0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_cardboard_box03/flt_prop_cardboard_box03" name_id="flt_prop_cardboard_box03_001" position="9 168 199" rotation="-0 -0 0.707107 -0.707107" unit_id="100031"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-100 175 200" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_lxy/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_d" name_id="lxy_prop_cardboardbox_small_d_001" position="-98 168 200" rotation="0 0 0 -1" unit_id="100032"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-150 165 26" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_box_plastic/dah_prop_box_plastic" name_id="dah_prop_box_plastic_001" position="-159 165 26" rotation="0 0 0.707107 -0.707107" unit_id="100033"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-129 165 26" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_box_plastic/dah_prop_box_plastic" name_id="dah_prop_box_plastic_002" position="-128 162 26" rotation="0 0 0.707107 -0.707107" unit_id="100034"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-158 162 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_box_plastic/dah_prop_box_plastic" name_id="dah_prop_box_plastic_003" position="-158 162 50" rotation="0 0 0.731354 -0.681998" unit_id="100035"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-156.313 44.894 5" _prev_rot="0 0.173648 0 -0.984808" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_sand/pickups/sand_pku_gasoline/sand_pku_gasoline" name_id="sand_pku_gasoline_004" position="-156.313 44.894 5" rotation="-0 0.173648 -0 -0.984808" unit_id="100036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="139 79 29" _prev_rot="-0.5 -0.5 0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_sand/pickups/sand_pku_gasoline/sand_pku_gasoline" name_id="sand_pku_gasoline_005" position="139 79 29" rotation="0.5 0.5 -0.5 0.5" unit_id="100037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 150 26" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" name_id="tra_cover_cardboardbox_001" position="-25 150 26" rotation="0 0 0 -1" unit_id="100038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="17 150 26" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" name_id="tra_cover_cardboardbox_002" position="17 150 26" rotation="0 0 0.113203 -0.993572" unit_id="100039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-100 150 26" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" name_id="tra_cover_cardboardbox_003" position="-100 150 26" rotation="0 0 -0.0871557 -0.996195" unit_id="100040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-100 175 86" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/box/prop_filebox_01" name_id="prop_filebox_01_001" position="-100 168 86" rotation="0 0 0 -1" unit_id="100041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-150 168 86" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/box/prop_filebox_01" name_id="prop_filebox_01_002" position="-150 168 86" rotation="0 0 0.104528 -0.994522" unit_id="100042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="168.037 -88.761 26" _prev_rot="0 0 0.996917 -0.0784591" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/air_prop_hangar_toolbox/air_prop_hangar_toolbox_addon" name_id="air_prop_hangar_toolbox_addon_001" position="168.037 -88.761 26" rotation="0 0 0.999048 -0.0436194" unit_id="100043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="166 65 86" _prev_rot="0 0 -0.0348996 -0.999391" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_box_plastic/dah_prop_box_plastic" name_id="dah_prop_box_plastic_004" position="166 59 86" rotation="0 0 -0.0348996 -0.999391" unit_id="100044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="166.83 96.1338 86" _prev_rot="0 0 -0.0348996 -0.999391" continent="world" local_pos="2.99999 31 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_box_plastic/dah_prop_box_plastic" name_id="dah_prop_box_plastic_005" position="166.83 90.1338 86" rotation="0 0 -0.0348996 -0.999391" unit_id="100045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="168.923 66.2068 110" _prev_rot="0 0 5.25266e-007 -1" continent="world" local_pos="3.00001 0.999998 24" local_rot="0 0 -0.0349001 0.999391" name="units/pd2_dlc_dah/props/dah_prop_box_plastic/dah_prop_box_plastic" name_id="dah_prop_box_plastic_006" position="168.923 60.2068 110" rotation="0 0 5.25266e-007 -1" unit_id="100046"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="175 -75 87.6861" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_cardboard_cube/flt_prop_cardboard_cube" name_id="flt_prop_cardboard_cube_001" position="175 -75 86.6861" rotation="0 0 0 -1" unit_id="100047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="175 50 199" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_cardboard_box02/flt_prop_cardboard_box02" name_id="flt_prop_cardboard_box02_001" position="165 50 199" rotation="-0 0 -0 -1" unit_id="100048"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-159 -12 0" _prev_rot="0 0 -0.0784591 -0.996917" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/survivalist/cardboard_box/cardboard_cube" name_id="cardboard_cube_001" position="-164 -11 0" rotation="0 0 -0.0784591 -0.996917" unit_id="100049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7.68732 166.211 146" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_c" name_id="lxy_prop_cardboardbox_small_c_001" position="-7.31268 166.211 146" rotation="0 0 -0.707107 -0.707107" unit_id="100050"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="43.6873 166.211 146" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_c" name_id="lxy_prop_cardboardbox_small_c_002" position="43.6873 166.211 146" rotation="0 0 -0.642788 -0.766044" unit_id="100051"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-156.384 5.04044 56.4744" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/hospital/props/clipboard01/clipboard_paper" name_id="clipboard_paper_001" position="-156.384 7.04044 56.4744" rotation="0 0 0 -1" unit_id="100052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="163.237 -77.3927 147.129" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/office/desk_accessories/desk_papertray" name_id="desk_papertray_001" position="163.237 -77.3927 147.129" rotation="0 0 0.358368 -0.93358" unit_id="100053"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

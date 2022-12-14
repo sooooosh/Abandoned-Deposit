@@ -1,0 +1,36 @@
+<table directory="assets">
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_weapon_case_2x1/spawn_ak47" type="unit">
+		<material_config path="units/payday2/equipment/gen_interactable_weapon_case_2x1/spawn_ak47"/>
+		<object path="units/payday2/equipment/gen_interactable_weapon_case_2x1/spawn_ak47"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_weapon_case_2x1/spawn_ak47"/>
+		<unit path="units/payday2/equipment/gen_interactable_weapon_case_2x1/spawn_ak47"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_ranc/props/ranc_int_prop_weapon_workbench/spawn_crafted_weapon_case" type="unit">
+		<material_config path="units/pd2_dlc_ranc/props/ranc_int_prop_weapon_workbench/spawn_crafted_weapon"/>
+		<object path="units/pd2_dlc_ranc/props/ranc_int_prop_weapon_workbench/spawn_crafted_weapon"/>
+		<sequence_manager path="units/pd2_dlc_ranc/props/ranc_int_prop_weapon_workbench/spawn_crafted_weapon"/>
+		<unit path="units/pd2_dlc_ranc/props/ranc_int_prop_weapon_workbench/spawn_crafted_weapon_case"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/equipment/ind_interactable_shipping_crate_2x1x1m/ind_interactable_shipping_crate_2x1x1m" type="unit">
+		<material_config path="units/pd2_dlc1/equipment/ind_interactable_shipping_crate_2x1x1m/ind_interactable_shipping_crate_2x1x1m"/>
+		<object path="units/pd2_dlc1/equipment/ind_interactable_shipping_crate_2x1x1m/ind_interactable_shipping_crate_2x1x1m"/>
+		<sequence_manager path="units/pd2_dlc1/equipment/ind_interactable_shipping_crate_2x1x1m/ind_interactable_shipping_crate_2x1x1m"/>
+		<unit path="units/pd2_dlc1/equipment/ind_interactable_shipping_crate_2x1x1m/ind_interactable_shipping_crate_2x1x1m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chill/props/chl_prop_display_weapon/chl_prop_display_weapon_large" type="unit">
+		<material_config path="units/pd2_dlc_chill/props/chl_prop_display_weapon/chl_prop_display_weapon_small"/>
+		<object path="units/pd2_dlc_chill/props/chl_prop_display_weapon/chl_prop_display_weapon_large"/>
+		<unit path="units/pd2_dlc_chill/props/chl_prop_display_weapon/chl_prop_display_weapon_large"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/hlm_interactable_bar_code_downtown/hlm_interactable_bar_code_downtown" type="unit">
+		<unit path="units/payday2/equipment/hlm_interactable_bar_code_downtown/hlm_interactable_bar_code_downtown"/>
+		<object path="units/payday2/equipment/hlm_interactable_bar_code_downtown/hlm_interactable_bar_code_downtown"/>
+		<material_config path="units/payday2/equipment/hlm_interactable_bar_code_downtown/hlm_interactable_bar_code_downtown"/>
+		<sequence_manager path="units/payday2/equipment/hlm_interactable_bar_code_downtown/hlm_interactable_bar_code_downtown"/>
+	</add>
+</table>

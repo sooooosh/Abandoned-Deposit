@@ -1,0 +1,5 @@
+<materials version="3">
+    <material name="mat_floor" render_template="generic:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/ind_vehicle_truck_interior_floor_df"/>
+    </material>
+</materials>

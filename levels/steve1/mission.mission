@@ -1,0 +1,7 @@
+<table>
+	<editor_only file="editor_only/editor_only"/>
+	<nav file="nav/nav"/>
+	<props file="props/props"/>
+	<ref file="ref/ref"/>
+	<world file="world/world"/>
+</table>
