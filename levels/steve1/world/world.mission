@@ -1125,6 +1125,7 @@
 			<entry index="4" type="string" value="steve_weapon_crate_003"/>
 			<entry index="5" type="string" value="steve_vault_money_001"/>
 			<entry index="6" type="string" value="steve_weapon_crate_007"/>
+			<entry index="7" type="string" value="steve_diner_001"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

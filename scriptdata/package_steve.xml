@@ -23,53 +23,45 @@
 		<unit path="units/pd2_mod_jam/pickups/pku_goldgun/pku_goldgun"/>
 	</add>
 	<add>
-		<unit path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
-		<object path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
-		<model path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
 		<material_config path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
+		<model path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
+		<object path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
+		<unit path="units/pd2_mod_jam/props/metal_plate/metal_plate"/>
 	</add>
 	<add>
-		<unit path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
-		<object path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
-		<model path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
 		<material_config path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
+		<model path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
+		<object path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
 		<texture path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep_df"/>
+		<unit path="units/pd2_mod_jam/props/clipboard_shep/clipboard_shep"/>
 	</add>
 	<add>
-		<material_config path="units/pd2_mod_jam/architecture/bnk_worn/bnk_worn"/>
 		<texture path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_01b_df_res"/>
 		<texture path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_01b_nm_res"/>
-
 		<unit path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_entrance_b_worn"/>
 		<object path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_entrance_b_worn"/>
 		<model path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_entrance_b_worn"/>
-		
 		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_nowin_worn"/>
 		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_nowin_worn"/>
 		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_nowin_worn"/>
-
 		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_door_worn"/>
 		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_door_worn"/>
 		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile2_4x4m_a_door_worn"/>
-
 		<unit path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_wall_window_2m_worn"/>
 		<object path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_wall_window_2m_worn"/>
 		<model path="units/pd2_mod_jam/architecture/bnk_worn/bnk_ext_wall_window_2m_worn"/>
-
 		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x8m_a_worn"/>
 		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x8m_a_worn"/>
 		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x8m_a_worn"/>
-
 		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x4m_a_door_worn"/>
 		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x4m_a_door_worn"/>
 		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x4m_a_door_worn"/>
-
 		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x2m_a_worn"/>
 		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x2m_a_worn"/>
 		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x2m_a_worn"/>
-
 		<unit path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x1m_a_worn"/>
 		<object path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x1m_a_worn"/>
 		<model path="units/pd2_mod_jam/architecture/bnk_worn/lcm_b_ext_vtile1_4x1m_a_worn"/>
+		<material_config path="units/pd2_mod_jam/architecture/bnk_worn/bnk_worn"/>
 	</add>
 </table>

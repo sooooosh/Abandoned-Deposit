@@ -1,0 +1,42 @@
+<generic_scriptdata type="table">
+	<entry key="ambience_enabled" type="boolean" value="false"/>
+	<entry key="default_ambience" type="string" value="ambience_int_office_medium"/>
+	<entry key="default_environment" type="string" value="acoustics_indoor_large_hiecho"/>
+	<entry key="default_occasional" type="string" value="occasionals_a_silent"/>
+	<entry key="sound_area_emitters" type="table">
+		<entry index="1" type="table">
+			<entry key="depth" type="number" value="54"/>
+			<entry key="emitter_event" type="string" value="emitter_safe_house_boom_box"/>
+			<entry key="height" type="number" value="518"/>
+			<entry key="name" type="string" value="sound_area_emitter_001"/>
+			<entry key="position" type="vector3" value="-533.17 -1516.21 -130"/>
+			<entry key="rotation" type="quaternion" value="0 0 0.34202 -0.939693"/>
+			<entry key="type" type="string" value="box_middle"/>
+			<entry key="width" type="number" value="75"/>
+		</entry>
+		<entry index="2" type="table">
+			<entry key="depth" type="number" value="206"/>
+			<entry key="emitter_event" type="string" value="emitter_fan_desk_loop"/>
+			<entry key="height" type="number" value="400"/>
+			<entry key="name" type="string" value="sound_area_emitter_002"/>
+			<entry key="position" type="vector3" value="517 -917 169.004"/>
+			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+			<entry key="type" type="string" value="box_middle"/>
+			<entry key="width" type="number" value="193"/>
+		</entry>
+		<entry index="3" type="table">
+			<entry key="depth" type="number" value="1380"/>
+			<entry key="emitter_event" type="string" value="emitter_clock_02"/>
+			<entry key="height" type="number" value="1000"/>
+			<entry key="name" type="string" value="sound_area_emitter_003"/>
+			<entry key="position" type="vector3" value="369 -1146 229.004"/>
+			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+			<entry key="type" type="string" value="box_middle"/>
+			<entry key="width" type="number" value="1290"/>
+		</entry>
+	</entry>
+	<entry key="sound_emitters" type="table">
+	</entry>
+	<entry key="sound_environments" type="table">
+	</entry>
+</generic_scriptdata>

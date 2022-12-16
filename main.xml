@@ -19,11 +19,18 @@
 	<instance id="steve_vault_money">
 		<packages/>
 	</instance>
+	<Package file="scriptdata/package_steve.xml" id="package_steve" unload_on_restart="true"/>
+	<Package file="scriptdata/package_cartel_workers.xml" id="package_cartel_workers" unload_on_restart="true"/>
+	<instance id="steve_diner">
+		<packages>
+			<value_node value="levels/instances/unique/pbr/pbr_fastfood/world"/>
+			<value_node value="levels/instances/unique/pbr/pbr_fastfood/world_sounds"/>
+			<value_node value="levels/instances/unique/pbr/pbr_fastfood/world/world"/>
+		</packages>
+	</instance>
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<Package file="scriptdata/package_steve.xml" id="package_steve" unload_on_restart="true"/>
-	<Package file="scriptdata/package_cartel_workers.xml" id="package_cartel_workers" unload_on_restart="true"/>
 	<level ai_group_type="america" id="steve1" max_bags="54">
 		<assets>
 			<asset name="ammo_bag"/>
@@ -31,6 +38,7 @@
 			<asset name="grenade_crate"/>
 			<asset name="bodybags_bag"/>
 		</assets>
+		<outro_event/>
 		<packages>
 			<value_node value="package_steve"/>
 			<value_node value="package_cartel_workers"/>

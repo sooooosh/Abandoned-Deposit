@@ -1,7 +1,8 @@
 <table>
+	<collisions file="collisions/collisions"/>
 	<editor_only file="editor_only/editor_only"/>
+	<lights file="lights/lights"/>
 	<nav file="nav/nav"/>
 	<props file="props/props"/>
-	<ref file="ref/ref"/>
 	<world file="world/world"/>
 </table>

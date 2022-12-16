@@ -1,7 +1,8 @@
 <table>
+	<collisions base_id="600000" enabled_in_simulation="true" name="collisions"/>
 	<editor_only base_id="200000" editor_only="true" name="editor_only"/>
+	<lights base_id="400000" enabled_in_simulation="true" name="lights"/>
 	<nav base_id="500000" editor_only="true" enabled_in_simulation="true" name="nav"/>
 	<props base_id="300000" enabled_in_simulation="true" name="props" visible="true"/>
-	<ref base_id="400000" editor_only="true" enabled_in_simulation="false" name="ref"/>
 	<world base_id="100000" editor_only="false" name="world"/>
 </table>

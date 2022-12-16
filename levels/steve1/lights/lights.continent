@@ -1,0 +1,22 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="-266 -1220 74.001" _prev_rot="-0 0 -0 -1" continent="lights" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_flicker" name="core/units/light_omni_seq/light_omni_seq" name_id="light_omni_seq_001" only_visible_in_editor="true" position="-266 -1220 74.001" rotation="-0 0 -0 -1" unit_id="400000">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.458824 0" enabled="true" falloff_exponent="1" far_range="200" multiplier="@ID8c34304230e70372@" name="lo_omni" near_range="10" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-48 -1220 74.001" _prev_rot="0 0 0 -1" continent="lights" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_flicker" name="core/units/light_omni_seq/light_omni_seq" name_id="light_omni_seq_002" only_visible_in_editor="true" position="-48 -1220 74.001" rotation="0 0 0 -1" unit_id="400001">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.458824 0" enabled="true" falloff_exponent="1" far_range="200" multiplier="@ID8c34304230e70372@" name="lo_omni" near_range="10" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
