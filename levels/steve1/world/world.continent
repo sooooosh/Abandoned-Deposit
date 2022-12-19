@@ -950,7 +950,7 @@
 			<unit_data _prev_pos="2500 -400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="1300 -1200 400" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_plane_8x8m_a" name_id="lcm_b_ext_roof4_plane_8x8m_a_002" position="2500 -400 400" rotation="0 0 0 -1" unit_id="100463"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 0 10000" _prev_rot="0 0 0 -1" continent="world" local_pos="-1200 -800 10000" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="0 0 10000" rotation="0 0 0 -1" unit_id="100093"/>
+			<unit_data _prev_pos="0 0 10000" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="0 0 10000" rotation="0 0 0 -1" unit_id="100093"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-475 450 10002.5" _prev_rot="0 0 0 -1" continent="world" local_pos="-1675 -350 10002.5" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_001" position="-475 450 10002.5" rotation="0 0 0 -1" unit_id="100101">
@@ -2123,7 +2123,7 @@
 			<unit_data _prev_pos="1325 -1275 -800" _prev_rot="0 0 0 -1" continent="world" local_pos="125 -2075 -800" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/gov_c_ext/gov_c_ext_scaffolding_8x12" name_id="gov_c_ext_scaffolding_8x12_002" position="1325 -1275 -800" rotation="0 0 0 -1" unit_id="100339"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="325 1200 -800" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-875 400 -800" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc2/architecture/gov_c_ext/gov_c_ext_scaffolding_8x12" name_id="gov_c_ext_scaffolding_8x12_003" position="325 1200 -800" rotation="0 0 0.707107 -0.707107" unit_id="100340"/>
+			<unit_data _prev_pos="325 1200 -800" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/gov_c_ext/gov_c_ext_scaffolding_8x12" name_id="gov_c_ext_scaffolding_8x12_003" position="325 1200 -800" rotation="0 0 0.707107 -0.707107" unit_id="100340"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1952.82 7.09082 -399" _prev_rot="0 0 0.992546 0.121869" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/nature/pnau/pnau_terrain_custom_alex/pnau_bdrop_alex" name_id="pnau_bdrop_alex_001" position="-1952.82 7.091 -399" rotation="0 0 0.992546 0.121869" unit_id="100341"/>
@@ -3828,6 +3828,21 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="5350 4775 1200" _prev_rot="0 0 0 -1" continent="world" local_pos="475 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_plane_8x8m_a" name_id="lcm_b_ext_roof4_plane_8x8m_a_040" position="5350 4800 1200" rotation="0 0 0 -1" unit_id="101269"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 10000" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_005" position="1100 0 10000" rotation="0 0 0 -1" unit_id="101270"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="625 450 10002.5" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_003" position="625 450 10002.5" rotation="-0 0 -0 -1" unit_id="101271">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="2.59" render_template="diffuse_vc_decal" text="OBJECTIVES" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
 		</table>
 	</statics>
 	<values>

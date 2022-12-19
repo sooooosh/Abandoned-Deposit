@@ -4,12 +4,14 @@
 		<object path="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box"/>
 		<sequence_manager path="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box"/>
 		<unit load="true" path="units/pd2_mod_jam/pickups/pku_ammo_box/pku_ammo_box"/>
+		<material_config from_db="true" path="units/pd2_dlc_jfr/props/jfr_prop_crate_ammo_a/jfr_prop_crate_ammo_a"/>
 	</add>
 	<add>
 		<model path="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun"/>
 		<object path="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun"/>
 		<sequence_manager path="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun"/>
 		<unit load="true" path="units/pd2_mod_jam/pickups/pku_shotgun/pku_shotgun"/>
+		<material_config from_db="true" path="units/payday2/props/gen_prop_weapon_r870/gen_prop_weapon_r870"/>
 	</add>
 	<add>
 		<texture path="units/pd2_mod_jam/pickups/pku_goldgun/base_df"/>
