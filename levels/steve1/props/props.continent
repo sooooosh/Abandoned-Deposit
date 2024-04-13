@@ -1193,6 +1193,12 @@
 		<table>
 			<unit_data _prev_pos="500 7550 7.46029" _prev_rot="0 0 0 -1" continent="props" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/nature/pnau/pnau_tree_elm/pnau_tree_elm_small" name_id="pnau_tree_elm_small_004" position="500 7550 7.46029" rotation="0 0 -0.824126 -0.566406" unit_id="300396"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-254.852 -203.27 15.8498" _prev_rot="-0.503844 0.557138 0.487066 -0.44554" continent="props" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_warehouse_pallettruck/ind_prop_warehouse_pallettruck" name_id="ind_prop_warehouse_pallettruck_004" position="-283.852 -188.27 15.85" rotation="-0.432191 0.614385 0.537736 -0.38286" unit_id="300397"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-413.51 -192.859 22.8546" _prev_rot="0.603862 0.367903 -0.367903 -0.603858" continent="props" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_crate_wood/gen_prop_crate_wood_a" name_id="gen_prop_crate_wood_a_006" position="-437.51 -211.859 22.8546" rotation="0.603862 0.367903 -0.367903 -0.603858" unit_id="300398"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

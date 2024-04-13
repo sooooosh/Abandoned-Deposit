@@ -2,12 +2,11 @@
 	<editor_groups/>
 	<instances>
 		<table continent="world" folder="levels/instances/mods/Abandoned Deposit/steve_fuzeroom/world" index_size="250" name="steve_fuzeroom_001" position="1000 1100 10000" rotation="0 0 0 -1" script="default" start_index="0"/>
-		<table continent="world" folder="levels/instances/mods/Abandoned Deposit/steve_storageroom/world" index_size="250" name="steve_storageroom_001" position="0 1100 10000" rotation="0 0 0 -1" script="default" start_index="250"/>
+		<table continent="world" folder="levels/instances/mods/Abandoned Deposit/steve_storageroom/world" index_size="250" name="steve_storageroom_001" position="0 1100 10000" rotation="-0 0 -0 -1" script="default" start_index="250"/>
 		<table continent="world" folder="levels/instances/mods/Abandoned Deposit/steve_emptyroom/world" index_size="250" name="steve_emptyroom_001" position="2000 1100 10000" rotation="-0 0 -0 -1" script="default" start_index="500"/>
 		<table continent="world" folder="levels/instances/mods/Abandoned Deposit/steve_weapon_crate/world" index_size="250" name="steve_weapon_crate_003" position="1734 -536 0" rotation="0 0 -0.642788 0.766044" script="default" start_index="1250"/>
 		<table continent="world" folder="levels/instances/mods/Abandoned Deposit/steve_vault_money/world" index_size="250" mission_placed="false" name="steve_vault_money_001" position="2825 -275 -249" rotation="0 0 0 1" script="default" start_index="1500"/>
 		<table continent="world" folder="levels/instances/mods/Abandoned Deposit/steve_weapon_crate/world" index_size="250" name="steve_weapon_crate_007" position="3003 -1091 2" rotation="0 0 0.71934 -0.694658" script="default" start_index="2500"/>
-		<table continent="world" folder="levels/instances/mods/Abandoned Deposit/steve_diner/world" index_size="250" name="steve_diner_001" position="-1600 2625 25" rotation="0 0 -0.707107 0.707107" script="default" start_index="750"/>
 	</instances>
 	<statics>
 		<table>
@@ -948,21 +947,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="2500 -400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="1300 -1200 400" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_plane_8x8m_a" name_id="lcm_b_ext_roof4_plane_8x8m_a_002" position="2500 -400 400" rotation="0 0 0 -1" unit_id="100463"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="0 0 10000" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="0 0 10000" rotation="0 0 0 -1" unit_id="100093"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-475 450 10002.5" _prev_rot="0 0 0 -1" continent="world" local_pos="-1675 -350 10002.5" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_001" position="-475 450 10002.5" rotation="0 0 0 -1" unit_id="100101">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="2.59" render_template="diffuse_vc_decal" text="STARTUP" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
 		</table>
 		<table>
 			<unit_data _prev_pos="1543 79 76.908" _prev_rot="0 0 0 -1" continent="world" local_pos="343 -721 76.908" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_dlc_ranc/equipment/ranc_int_weapon_box_2x1x1m/spawn_int_receivers" name_id="ak_receiver" position="1543 79 76.908" rotation="0 0 0 -1" unit_id="100117"/>
@@ -3764,9 +3748,6 @@
 			<unit_data _prev_pos="1550 1150 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/street/plywood_fence/plywood_fence_wide" name_id="plywood_fence_wide_001" position="1550 1175 400" rotation="0 0 0 -1" unit_id="101250"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 1100 10000" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="0 1100 10000" rotation="-0 0 -0 -1" unit_id="101249"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-4400 4400 1.52588e-005" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_asphalt_8x8m_a" name_id="str_ext_asphalt_8x8m_a_108" position="-4400 5200 1.52588e-005" rotation="0 0 0 -1" unit_id="100530"/>
 		</table>
 		<table>
@@ -3830,19 +3811,181 @@
 			<unit_data _prev_pos="5350 4775 1200" _prev_rot="0 0 0 -1" continent="world" local_pos="475 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_plane_8x8m_a" name_id="lcm_b_ext_roof4_plane_8x8m_a_040" position="5350 4800 1200" rotation="0 0 0 -1" unit_id="101269"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 0 10000" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_005" position="1100 0 10000" rotation="0 0 0 -1" unit_id="101270"/>
+			<unit_data _prev_pos="-1600 2600 25.0001" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_diner_ext" name_id="jry_diner_ext_001" position="-1600 2600 25.0001" rotation="0 0 0.707107 -0.707107" unit_id="101273"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="625 450 10002.5" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_003" position="625 450 10002.5" rotation="-0 0 -0 -1" unit_id="101271">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="2.59" render_template="diffuse_vc_decal" text="OBJECTIVES" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
+			<unit_data _prev_pos="-1375 2725 424" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_diner_sign" name_id="jry_diner_sign_001" position="-1375 2725 425" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="101272"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1600 2600 25.0001" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_diner_ext" name_id="jry_diner_ext_001" position="-1600 2600 25.0001" rotation="0 0 0.707107 -0.707107" unit_id="101273"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1600 2600 25" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_diner_int" name_id="jry_diner_int_001" position="-1600 2600 25" rotation="0 0 0.707107 -0.707107" unit_id="101274"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1616 2302 195" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_diner_windows" name_id="jry_diner_windows_001" position="-1611 2302 195" rotation="0 0 -0.707107 -0.707107" unit_id="101275"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1419 2799 24" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="interaction_disabled" name="units/payday2/equipment/gen_interactable_door_hcm/gen_interactable_door_hcm_double" name_id="gen_interactable_door_hcm_double_004" position="-1419 2799 24" rotation="0 0 1 4.37114e-008" unit_id="101276"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-375 -225 -18.9991" _prev_rot="0 0 0.492424 -0.870356" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/res_ext_apartment/res_ext_debris" name_id="res_ext_debris_013" position="-375 -225 -25.9991" rotation="0 0 0.492424 -0.870356" unit_id="101277"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1725.69 2651.75 428" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc2/csgo_models/props_unique/skylight_broken_large" name_id="skylight_broken_large_005" position="-1723.69 2651.75 428" rotation="0 0 -0.707107 -0.707107" unit_id="100093"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2323.69 2701.75 428" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc2/csgo_models/props_unique/skylight_broken_large" name_id="skylight_broken_large_006" position="-2325.69 2701.75 428" rotation="0 0 0 -1" unit_id="100101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1904 3215 195" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_diner_windows" name_id="jry_diner_windows_002" position="-1903 3215 195" rotation="0 0 1 -0" unit_id="101249"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1903 3215 195" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_diner_windows" name_id="jry_diner_windows_003" position="-2503 3215 195" rotation="0 0 1 -0" unit_id="101270"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1800 2150 105.854" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_001" position="-1750 2150 105.854" rotation="0 0 0 -1" unit_id="101278"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2200 2550 38.6659" _prev_rot="0 0 0 -1" continent="world" local_pos="0 400 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_001" position="-2200 2500 38.6659" rotation="0 0 0 -1" unit_id="101279"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1750 2050 25.0001" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_001" position="-1750 2050 25.0001" rotation="0 0 1 -4.37114e-008" unit_id="101280"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2200 2450 38.6659" _prev_rot="0 0 0 -1" continent="world" local_pos="0 300 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_002" position="-2200 2400 38.6659" rotation="0 0 0 -1" unit_id="101281"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2200 2350 38.6659" _prev_rot="0 0 0 -1" continent="world" local_pos="0 200 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_003" position="-2200 2300 38.6659" rotation="0 0 0 -1" unit_id="101282"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2200 2250 38.6659" _prev_rot="0 0 0 -1" continent="world" local_pos="0 100 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_004" position="-2200 2200 38.6659" rotation="0 0 0 -1" unit_id="101283"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2200 2150 38.6659" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_005" position="-2200 2100 38.6659" rotation="0 0 0 -1" unit_id="101284"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2400 2725 38.6659" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_006" position="-2400 2742 38.6659" rotation="0 0 -0.707107 -0.707107" unit_id="101285"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2500 2725 38.6659" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 100 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_007" position="-2500 2742 38.6659" rotation="0 0 -0.707107 -0.707107" unit_id="101286"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2600 2725 38.6659" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 200 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_008" position="-2600 2742 38.6659" rotation="0 0 -0.707107 -0.707107" unit_id="101287"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2700 2725 38.6659" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 300 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_009" position="-2700 2742 38.6659" rotation="0 0 -0.707107 -0.707107" unit_id="101288"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2800 2725 38.6659" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 400 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_stool" name_id="jry_prop_diner_stool_010" position="-2800 2742 38.6659" rotation="0 0 -0.707107 -0.707107" unit_id="101289"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1750 2150 25.0001" _prev_rot="0 0 0 -1" continent="world" local_pos="-8.74228e-006 -100 0" local_rot="0 0 1 4.37114e-008" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_tablelong" name_id="jry_prop_diner_tablelong_001" position="-1750 2150 25.0001" rotation="0 0 0 -1" unit_id="101291"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1750 2250 25.0001" _prev_rot="0 0 -8.74228e-008 -1" continent="world" local_pos="-1.74846e-005 -200 0" local_rot="0 0 1 -4.37114e-008" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_002" position="-1750 2250 25.0001" rotation="0 0 -8.74228e-008 -1" unit_id="101292"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1750 2550 25.0001" _prev_rot="0 0 -8.74228e-008 -1" continent="world" local_pos="-4.37114e-005 -500 0" local_rot="0 0 1 -4.37114e-008" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_003" position="-1750 2550 25.0001" rotation="0 0 -8.74228e-008 -1" unit_id="101293"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1750 2450 25.0001" _prev_rot="0 0 0 -1" continent="world" local_pos="-3.49691e-005 -400 0" local_rot="0 0 1 4.37114e-008" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_tablelong" name_id="jry_prop_diner_tablelong_002" position="-1750 2450 25.0001" rotation="0 0 0 -1" unit_id="101294"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1750 2350 25.0001" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="-2.62268e-005 -300 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_004" position="-1750 2350 25.0001" rotation="0 0 1 -4.37114e-008" unit_id="101295"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1725 3075 25.0001" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_005" position="-1700 3075 25.0001" rotation="0 0 0.707107 -0.707107" unit_id="101296"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1800 3075 25.0001" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_tablelong" name_id="jry_prop_diner_tablelong_003" position="-1775 3075 25.0001" rotation="0 0 -0.707107 -0.707107" unit_id="101297"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1900 3075 25.0001" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_006" position="-1850 3075 25.0001" rotation="0 0 -0.707107 -0.707107" unit_id="101298"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2000 3075 25.0001" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_007" position="-1950 3075 25.0001" rotation="0 0 0.707107 -0.707107" unit_id="101299"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2100 3075 25.0001" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_tablelong" name_id="jry_prop_diner_tablelong_004" position="-2025 3075 25.0001" rotation="0 0 -0.707107 -0.707107" unit_id="101300"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2125 3075 25.0001" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_008" position="-2100 3075 25.0001" rotation="0 0 -0.707107 -0.707107" unit_id="101301"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1700 3075 25.0001" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_009" position="-2300 3075 25.0001" rotation="0 0 0.707107 -0.707107" unit_id="101302"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2375 3075 25.0001" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-3.57628e-005 -100 0" local_rot="0 0 -1.49012e-007 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_tablelong" name_id="jry_prop_diner_tablelong_005" position="-2375 3075 25.0001" rotation="0 0 -0.707107 -0.707107" unit_id="101303"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2475 3075 25.0001" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_010" position="-2450 3075 25.0001" rotation="0 0 -0.707107 -0.707107" unit_id="101304"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2575 3075 25.0001" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="3.57628e-005 100 0" local_rot="0 0 -1 0" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_011" position="-2550 3075 25.0001" rotation="0 0 0.707107 -0.707107" unit_id="101305"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2650 3075 25.0001" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_tablelong" name_id="jry_prop_diner_tablelong_006" position="-2625 3075 25.0001" rotation="0 0 -0.707107 -0.707107" unit_id="101306"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2725 3075 25.0001" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_seat" name_id="jry_prop_diner_seat_012" position="-2700 3075 25.0001" rotation="0 0 -0.707107 -0.707107" unit_id="101307"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1750 2150 105.854" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_002" position="-1750 2450 105.854" rotation="0 0 0 -1" unit_id="101308"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1800 3075 105.854" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 80.8536" local_rot="0 0 -1 0" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_003" position="-1775 3075 105.854" rotation="0 0 0.707107 -0.707107" unit_id="101309"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2025 3075 105.854" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_004" position="-2025 3075 105.854" rotation="0 0 0.707107 -0.707107" unit_id="101310"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2375 3075 105.854" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_005" position="-2375 3075 105.854" rotation="0 0 0.707107 -0.707107" unit_id="101311"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2375 3075 105.854" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_006" position="-2625 3075 105.854" rotation="0 0 0.707107 -0.707107" unit_id="101312"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2300 2450 139.782" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-300 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_007" position="-2300 2450 139.782" rotation="0 0 0.707107 -0.707107" unit_id="101313"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2300 2150 139.782" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_008" position="-2300 2150 139.782" rotation="0 0 0.707107 -0.707107" unit_id="101314"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2300 2650 139.782" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_009" position="-2450 2650 139.782" rotation="0 0 0 -1" unit_id="101315"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2600 2650 139.782" _prev_rot="0 0 0 -1" continent="world" local_pos="-300 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_menu" name_id="jry_prop_diner_menu_010" position="-2750 2650 139.782" rotation="0 0 0 -1" unit_id="101316"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1650 2675 25.0001" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/props/jry_prop_diner_bin/jry_diner_prop_bin" name_id="jry_diner_prop_bin_001" position="-1650 2675 25.0001" rotation="0 0 0 -1" unit_id="101271"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1419 2799 24" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="interaction_disabled" name="units/payday2/equipment/gen_interactable_door_hcm/gen_interactable_door_hcm_double" name_id="gen_interactable_door_hcm_double_005" position="-1619 2799 24" rotation="0 0 1 4.37114e-008" unit_id="101290"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3115 3128 25.0001" _prev_rot="0 0 0.92388 -0.382683" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/props/jry_prop_diner_jukebox/jry_diner_prop_jukebox" name_id="jry_diner_prop_jukebox_001" position="-3115 3130 25.0001" rotation="0 0 0.92388 -0.382683" unit_id="101317"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1725 2450 375" _prev_rot="-0 0 -0 -1" continent="world" local_pos="650 -650 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_ceilinglamp" name_id="jry_prop_diner_ceilinglamp_001" position="-1725 2450 400" rotation="-0 0 -0 -1" unit_id="101318"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1725 2150 375" _prev_rot="-0 0 -0 -1" continent="world" local_pos="650 -950 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_ceilinglamp" name_id="jry_prop_diner_ceilinglamp_002" position="-1725 2150 400" rotation="-0 0 -0 -1" unit_id="101319"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1775 3075 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_ceilinglamp" name_id="jry_prop_diner_ceilinglamp_003" position="-1775 3075 400" rotation="-0 0 -0 -1" unit_id="101320"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2025 3075 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_ceilinglamp" name_id="jry_prop_diner_ceilinglamp_004" position="-2025 3075 400" rotation="-0 0 -0 -1" unit_id="101321"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2375 3100 375" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_ceilinglamp" name_id="jry_prop_diner_ceilinglamp_005" position="-2375 3100 400" rotation="0 0 0 -1" unit_id="101322"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2625 3100 375" _prev_rot="0 0 0 -1" continent="world" local_pos="-250 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_jerry/architecture/jry_diner/jry_prop_diner_ceilinglamp" name_id="jry_prop_diner_ceilinglamp_006" position="-2625 3100 400" rotation="0 0 0 -1" unit_id="101323"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3196 2855 25.0001" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced_02" name_id="gen_interactable_door_reinforced_02_001" position="-3195 2856 25.0001" rotation="0 0 1 -4.37114e-008" unit_id="101324"/>
 		</table>
 	</statics>
 	<values>
